@@ -1,6 +1,39 @@
-<svg width="30" height="30" version="1.1" viewBox="0 0 30 30" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="30"
+   height="30"
+   version="1.1"
+   viewBox="0 0 30 30"
+   id="svg8"
+   sodipodi:docname="calendar.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     showgrid="false"
+     inkscape:zoom="18.661272"
+     inkscape:cx="7.3682008"
+     inkscape:cy="14.950749"
+     inkscape:window-width="1920"
+     inkscape:window-height="1014"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {
         color:#31363b;
         stop-color:#31363b;
       }
@@ -44,8 +77,15 @@
         color:#3daee9;
         stop-color:#3daee9;
       }</style>
- </defs>
- <g transform="translate(0 -904.36)">
-  <path id="event" class="ColorScheme-Highlight" d="m30 918.36-16 16h16z" fill="#4285f4"/>
- </g>
+  </defs>
+  <g
+     transform="translate(0 -904.36)"
+     id="g6">
+    <path
+       id="event"
+       class="ColorScheme-Highlight"
+       d="m30 918.36-16 16h16z"
+       fill="#4285f4"
+       style="fill:#ffc900;fill-opacity:1" />
+  </g>
 </svg>
